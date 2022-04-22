@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: white;
+    font-size: 42px;
+}
+
+ul, ol, p {
+    color: white;
+}
+
+a {
+    color: white;
+    font-size: 28px;
+}
